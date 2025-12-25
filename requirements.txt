@@ -1,0 +1,6 @@
+CoolProp
+pint
+pandas
+python-telegram-bot
+python-dotenv
+matplotlib
