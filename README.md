@@ -48,8 +48,8 @@ Este proyecto simula el comportamiento de una **planta de refrigeración industr
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/SimulacionRefrigeracionBot.git
-   cd SimulacionRefrigeracionBot
+   git clone https://github.com/SrClicks/SimulacionRefrigeracionCompresionDeVaporBot.git
+   cd SimulacionRefrigeracionCompresionDeVaporBot
    ```
 
 2. **Crear entorno virtual** (recomendado)
